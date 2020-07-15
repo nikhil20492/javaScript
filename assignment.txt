@@ -1,0 +1,22 @@
+var x=120
+undefined
+var y=120
+undefined
+x==y
+true
+x===y
+true
+var z="120"
+undefined
+x==z
+true
+x===z
+false
+var k=true
+undefined
+var m="true"
+undefined
+k==m
+false
+k==1
+true

@@ -1,0 +1,24 @@
+Math.random()
+0.9313124088783051
+Math.floor(120.1)
+120
+Math.ceil(120.1)
+121
+Math.round(120.1)
+120
+Math.round(120.5)
+121
+
+random numer 
+
+Math.floor(Math.random()*(max-min))+min
+
+
+Math.floor(Math.random()*(100-50))+50
+57
+Math.floor(Math.random()*(100-50))+50
+88
+Math.floor(Math.random()*(100-50))+50
+81
+Math.floor(Math.random()*(100-50))+50
+68

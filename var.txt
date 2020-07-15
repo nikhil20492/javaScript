@@ -1,0 +1,52 @@
+var var1="Nikhil"
+undefined
+typeof(var1)
+"string"
+var num=99
+undefined
+typeof(num)
+"number"
+var num2=1.11111111
+undefined
+typeof(num2)
+"number"
+var yn=true
+undefined
+typeof(yn)
+"boolean"
+==========================
+
+var name="Raj"
+undefined
+var lastname="kapoor"
+undefined
+name+lastname
+"Rajkapoor"
+name+" " +lastname
+"Raj kapoor"
+num+num2
+100.11111111
+num+name
+"99Raj"
+name+num
+"Raj99"
+num+yn
+100
+yn+name
+"trueRaj"
+var s100="100"
+undefined
+num+s100
+"99100"
+num-s100
+-1
+var s100a="100a"
+undefined
+num-s100a
+NaN
+num+s100a
+"99100a"
+yn-s100
+-99
+yn+s100
+"true100"
